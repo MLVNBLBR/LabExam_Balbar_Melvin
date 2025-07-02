@@ -1,7 +1,7 @@
 # IT 332 Midterm Lab Exam – Melvin R. Balbar
 
 ## Description
-This project demonstrates a basic login system using web development and Git version control.
+This is basic login system using github and git.
 
 ## Features
 - Login form (email + password)
